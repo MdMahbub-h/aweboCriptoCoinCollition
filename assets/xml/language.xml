@@ -1,0 +1,741 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>Ads are not available now, try again later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Les annonces ne sont pas disponibles pour le moment, réessayez plus tard</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Derzeit sind keine Anzeigen verfügbar. Versuchen Sie es später noch einmal</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Los anuncios no están disponibles ahora, inténtelo de nuevo más tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Gli annunci non sono disponibili al momento, riprova più tardi</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_tip" item_id="booster_tip"  phrase_id="1">
+		<EN>
+			<TEXT>You can use a booster to swap 2 tiles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Vous pouvez utiliser un booster pour échanger 2 tuiles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Mit einem Booster können Sie 2 Kacheln tauschen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Puedes usar un potenciador para intercambiar 2 fichas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Puoi usare un booster per scambiare 2 tessere</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="booster_tip"  phrase_id="2">
+		<EN>
+			<TEXT>You can no longer use a booster at this level</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Vous ne pouvez plus utiliser de booster à ce niveau</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Du kannst auf dieser Stufe keinen Booster mehr verwenden</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Ya no puedes usar un potenciador en este nivel.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Non puoi più usare un booster a questo livello</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="1">
+		<EN>
+			<TEXT>This is your level score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Ceci est votre score de niveau</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Das ist dein Levelergebnis</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Esta es tu puntuación de nivel</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Questo è il tuo punteggio di livello</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="2">
+		<EN>
+			<TEXT>This is your best score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>C'est votre meilleur score</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Das ist Ihr bestes Ergebnis</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Esta es tu mejor puntuación</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Questo è il tuo punteggio migliore</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="3">
+		<EN>
+			<TEXT>This panel shows your target tile</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Ce panneau affiche votre tuile cible</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Dieses Feld zeigt Ihre Zielkachel</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Este panel muestra el mosaico de destino</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Questo pannello mostra la tua tessera di destinazione</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="quit"  phrase_id="1">
+		<EN>
+			<TEXT>Quit?</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Quitter?</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Aufhören?</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¿Abandonar?</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Esci?</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+			<DYNAMIC_PHRASE scene_id="game_windows" item_id="quit"  phrase_id="2">
+		<EN>
+			<TEXT>Yes</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Oui</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Ja</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Sí</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>SÌ</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="quit"  phrase_id="3">
+		<EN>
+			<TEXT>No</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Non</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>NEIN</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>No</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>NO</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="hint"  phrase_id="1">
+		<EN>
+			<TEXT>Select two tiles to swap them</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Sélectionnez deux tuiles pour les échanger</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Wählen Sie zwei Kacheln aus, um sie zu vertauschen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Selecciona dos fichas para intercambiarlas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Seleziona due tessere per scambiarle</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="tutorial"  phrase_id="1">
+		<EN>
+			<TEXT>Use mouse swipes or arrow keys to move tiles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Utilisez les balayages de la souris ou les touches fléchées pour déplacer les tuiles</TEXT>
+			<SIZE>-16</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Verwenden Sie Mausbewegungen oder Pfeiltasten, um Kacheln zu verschieben</TEXT>
+			<SIZE>-16</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Utilice movimientos del mouse o las teclas de flecha para mover los mosaicos</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Usa i movimenti del mouse o i tasti freccia per spostare le tessere</TEXT>
+			<SIZE>-16</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_play" item_id="score"  phrase_id="1">
+		<EN>
+			<TEXT>Score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Score</TEXT>
+			<SIZE>-8</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Punktzahl</TEXT>
+			<SIZE>-10</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Puntaje</TEXT>
+			<SIZE>-12</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Punto</TEXT>
+			<SIZE>-12</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="best_score"  phrase_id="1">
+		<EN>
+			<TEXT>Best Score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Meilleur score</TEXT>
+			<SIZE>-8</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Bestes Ergebnis</TEXT>
+			<SIZE>-10</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Mejor puntuación</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Miglior punteggio</TEXT>
+			<SIZE>-16</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_play" item_id="target_score"  phrase_id="1">
+		<EN>
+			<TEXT>Target Tile</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Tuile cible</TEXT>
+			<SIZE>-8</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Zielkachel</TEXT>
+			<SIZE>-10</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Azulejo de destino</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Piastrella di destinazione</TEXT>
+			<SIZE>-22</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="test_ad" item_id="rewarded"  phrase_id="1">
+		<EN>
+			<TEXT>Rewarded ad call</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Appel publicitaire récompensé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Anzeigenaufruf mit Prämie</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Llamada publicitaria recompensada</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Chiamata pubblicitaria con premio</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="test_ad" item_id="interstitial"  phrase_id="1">
+		<EN>
+			<TEXT>Interstitial ad call</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Appel d'annonce interstitielle</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Interstitial-Anzeigenaufruf</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Llamada de anuncio intersticial</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Chiamata dell'annuncio interstitial</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="1">
+		<EN>
+			<TEXT>Purchase failed</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>L’achat n’est pas réalisé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Kauf gescheitert</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>La compra falló</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Acquisto fallito</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Weite</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Continuar modo</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="1">
+		<EN>
+			<TEXT>Purchase is successfully completed!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>L’achat est réalisé!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Kauf erfolgreich abgeschlossen!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¡La compra fue exitosa!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Acquisto completato con successo!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>  
+			<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Weite</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Continuar modo</TEXT>
+			<SIZE>-16</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="remove_ads"  phrase_id="1">
+		<EN>
+			<TEXT>Disable ads</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Désactiver les publicités</TEXT>
+			<SIZE>-12</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Werbungen ausschalten</TEXT>
+			<SIZE>-12</SIZE>			
+		</DE>
+		<ES>
+			<TEXT>Desactivar los anuncios</TEXT>
+			<SIZE>-12</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Disattiva gli annunci</TEXT>
+			<SIZE>-8</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_finished"  phrase_id="1">
+		<EN>
+			<TEXT>Game Over</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+        <FR>
+			<TEXT>Jeu terminé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <DE>
+			<TEXT>Spiel vorbei</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+        <ES>
+			<TEXT>Juego terminado</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Game Over</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_finished"  phrase_id="2">
+		<EN>
+			<TEXT>Best!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+        <FR>
+			<TEXT>Meilleur!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <DE>
+			<TEXT>Am besten!</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+        <ES>
+			<TEXT>Lo mejor</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Migliore!</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_finished"  phrase_id="3">
+		<EN>
+			<TEXT>Score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+        <FR>
+			<TEXT>Score</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <DE>
+			<TEXT>Punktzahl</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+        <ES>
+			<TEXT>Puntaje</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Punto</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_finished"  phrase_id="4">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Weite</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Continuar modo</TEXT>
+			<SIZE>-12</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="1">
+		<EN>
+			<TEXT>Unlock %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Ouvrir %val</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Freischalten %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>desbloquear %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Sbloccare %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>Left %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Restantes %val</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Übrig %val</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Dejados %val</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Rimaste %val</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="classic">
+		<EN>
+			<TEXT>Classic</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT>Classique</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Klassiker</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Clásica</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Classica</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="ton">
+		<EN>
+			<TEXT>Ton</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="popular">
+		<EN>
+			<TEXT>Popular</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="solana">
+		<EN>
+			<TEXT>Solana</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="meme">
+		<EN>
+			<TEXT>Meme</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="ethereum">
+		<EN>
+			<TEXT>Ethereum</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<FR>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+</MAP>
