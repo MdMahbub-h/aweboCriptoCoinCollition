@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"  encoding="UTF-8"?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <MAP>
 	<DYNAMIC_PHRASE scene_id="game_tip" item_id="shop"  phrase_id="2">
 		<EN>
@@ -649,7 +649,7 @@
 
 	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="popular">
 		<EN>
-			<TEXT>Popular</TEXT>
+			<TEXT>Basechain</TEXT>
 			<SIZE>0</SIZE>		
 		</EN>
 		<FR>
